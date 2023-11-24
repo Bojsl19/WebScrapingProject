@@ -1,0 +1,5 @@
+2023-Nov-24-19:56:33,SELECT * FROM MarketCap
+2023-Nov-24-19:56:37,SELECT * FROM MarketCap
+2023-Nov-24-20:09:00,SELECT * FROM MarketCap
+2023-Nov-24-20:33:48,SELECT count(*) FROM MarketCap
+2023-Nov-24-20:34:19,SELECT avg(MC_INR_Billion) FROM MarketCap

@@ -1,0 +1,96 @@
+2023-Nov-24-19:52:19,Start extract
+2023-Nov-24-19:52:20,end extract data
+2023-Nov-24-19:52:20,Start Transformation
+2023-Nov-24-19:52:20,end transform data
+2023-Nov-24-19:52:20,Start load data to csv file
+2023-Nov-24-19:52:20,end load data to csv file
+2023-Nov-24-19:52:20,Start to load data to database
+2023-Nov-24-19:52:20,end load data to database
+2023-Nov-24-19:53:11,Start extract
+2023-Nov-24-19:53:12,end extract data
+2023-Nov-24-19:53:12,Start Transformation
+2023-Nov-24-19:53:12,end transform data
+2023-Nov-24-19:53:12,Start load data to csv file
+2023-Nov-24-19:53:12,end load data to csv file
+2023-Nov-24-19:53:12,Start to load data to database
+2023-Nov-24-19:53:12,end load data to database
+2023-Nov-24-19:53:22,Start extract
+2023-Nov-24-19:53:22,end extract data
+2023-Nov-24-19:53:22,Start Transformation
+2023-Nov-24-19:53:22,end transform data
+2023-Nov-24-19:53:22,Start load data to csv file
+2023-Nov-24-19:53:22,end load data to csv file
+2023-Nov-24-19:53:22,Start to load data to database
+2023-Nov-24-19:53:22,end load data to database
+2023-Nov-24-19:53:30,Start extract
+2023-Nov-24-19:53:31,end extract data
+2023-Nov-24-19:53:31,Start Transformation
+2023-Nov-24-19:53:31,end transform data
+2023-Nov-24-19:53:31,Start load data to csv file
+2023-Nov-24-19:53:31,end load data to csv file
+2023-Nov-24-19:53:31,Start to load data to database
+2023-Nov-24-19:53:31,end load data to database
+2023-Nov-24-19:53:52,Start extract
+2023-Nov-24-19:53:53,end extract data
+2023-Nov-24-19:53:53,Start Transformation
+2023-Nov-24-19:53:53,end transform data
+2023-Nov-24-19:53:53,Start load data to csv file
+2023-Nov-24-19:53:53,end load data to csv file
+2023-Nov-24-19:53:53,Start to load data to database
+2023-Nov-24-19:53:53,end load data to database
+2023-Nov-24-19:54:07,Start extract
+2023-Nov-24-19:54:08,end extract data
+2023-Nov-24-19:54:08,Start Transformation
+2023-Nov-24-19:54:08,end transform data
+2023-Nov-24-19:54:08,Start load data to csv file
+2023-Nov-24-19:54:08,end load data to csv file
+2023-Nov-24-19:54:08,Start to load data to database
+2023-Nov-24-19:54:08,end load data to database
+2023-Nov-24-20:09:06,Start extract
+2023-Nov-24-20:09:06,end extract data
+2023-Nov-24-20:09:06,Start Transformation
+2023-Nov-24-20:09:06,end transform data
+2023-Nov-24-20:09:06,Start load data to csv file
+2023-Nov-24-20:09:06,end load data to csv file
+2023-Nov-24-20:09:06,Start to load data to database
+2023-Nov-24-20:09:06,end load data to database
+2023-Nov-24-20:25:23,Start extract
+2023-Nov-24-20:25:23,end extract data
+2023-Nov-24-20:25:23,Start Transformation
+2023-Nov-24-20:25:23,end transform data
+2023-Nov-24-20:25:23,Start load data to csv file
+2023-Nov-24-20:25:23,end load data to csv file
+2023-Nov-24-20:25:23,Start to load data to database
+2023-Nov-24-20:25:23,end load data to database
+2023-Nov-24-20:25:42,Start extract
+2023-Nov-24-20:25:42,end extract data
+2023-Nov-24-20:25:42,Start Transformation
+2023-Nov-24-20:25:42,end transform data
+2023-Nov-24-20:25:42,Start load data to csv file
+2023-Nov-24-20:25:42,end load data to csv file
+2023-Nov-24-20:25:42,Start to load data to database
+2023-Nov-24-20:25:43,end load data to database
+2023-Nov-24-20:31:35,Start extract
+2023-Nov-24-20:31:36,end extract data
+2023-Nov-24-20:31:36,Start Transformation
+2023-Nov-24-20:31:36,end transform data
+2023-Nov-24-20:31:36,Start load data to csv file
+2023-Nov-24-20:31:36,end load data to csv file
+2023-Nov-24-20:31:36,Start to load data to database
+2023-Nov-24-20:31:36,end load data to database
+2023-Nov-24-20:31:51,Start extract
+2023-Nov-24-20:31:52,end extract data
+2023-Nov-24-20:31:52,Start Transformation
+2023-Nov-24-20:31:52,end transform data
+2023-Nov-24-20:31:52,Start load data to csv file
+2023-Nov-24-20:31:52,end load data to csv file
+2023-Nov-24-20:31:52,Start to load data to database
+2023-Nov-24-20:31:52,end load data to database
+2023-Nov-24-20:32:31,Start extract
+2023-Nov-24-20:32:32,end extract data
+2023-Nov-24-20:32:32,Start Transformation
+2023-Nov-24-20:32:32,end transform data
+2023-Nov-24-20:32:32,Start load data to csv file
+2023-Nov-24-20:32:32,end load data to csv file
+2023-Nov-24-20:32:32,Start to load data to database
+2023-Nov-24-20:32:32,end load data to database
